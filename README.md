@@ -4,7 +4,7 @@
 ```
 
 ```
-git clone https://github.com/shuklasaharsh/Customise-PC
+git clone https://github.com/shuklasaharsh/Dave2D-Like-Windows
 ```
 
 - This will install software that has been developed by [Rainmeter](https://docs.rainmeter.net/)
