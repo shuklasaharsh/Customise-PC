@@ -1,5 +1,5 @@
 # Dave2D Like Windows Experience
-```
+```diff
 ! To run, execute install.cmd as an administrator
 ```
 
